@@ -4,7 +4,7 @@ function ExpensesItem() {
     <div className="Expense">
       <div className="Expense">
         <h2 id="first">March 21th 2021</h2>
-        <h2 id="second">Car insurance</h2>
+        <h2 id="second">Car Insurance</h2>
       </div>
       <h2 id="third">$294.57</h2>
     </div>
