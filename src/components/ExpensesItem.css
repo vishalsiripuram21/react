@@ -1,0 +1,26 @@
+.Expense{
+  background-color: gray;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+  padding: 10;
+}
+#first{
+  color: black;
+  padding: 10px;font-size: 1.25rem;
+}
+#second{
+  color: white;
+  padding: 10px;font-size: 1.25rem;
+}
+#third{
+  border: 3px white solid;
+  color: white;
+  background-color: purple;
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;font-size: 1.25rem;
+  margin-right: 10px;
+}
