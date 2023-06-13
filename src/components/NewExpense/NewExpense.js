@@ -24,7 +24,6 @@ const NewExpense = (props) => {
       {addExpenseCond ? (
         <ExpenseForm
           onSaveNewDate={newData}
-          conditionCheck={addExpenseCond}
           func={fun}
         />
       ) : (
