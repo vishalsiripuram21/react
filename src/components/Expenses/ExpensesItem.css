@@ -5,6 +5,7 @@
   align-items: center;
   border-radius: 8px;
   padding: 10;
+  margin: 5px;
 }
 #first{
   color: black;
@@ -12,15 +13,21 @@
 }
 #second{
   color: white;
-  padding: 10px;font-size: 1.25rem;
+  font-size: 1.25rem;
 }
 #third{
-  border: 3px white solid;
+  border: 1.5px white solid;
   color: white;
   background-color: purple;
-  padding: 15px;
-  padding-left: 30px;
-  padding-right: 30px;
-  border-radius: 10px;font-size: 1.25rem;
-  margin-right: 10px;
+  width: 6rem;
+  height: 3rem;
+  border-radius: 7px;
+  font-size: 0.75rem;
+  margin-right: 5px;
+  text-align: center;
+
 }
+#ExpenseName{
+  padding-left: 50px;
+}
+

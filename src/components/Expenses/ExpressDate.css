@@ -1,0 +1,19 @@
+.Top{
+  border-radius: 6px;
+  background-color: black;
+  width: 5.5rem;
+  height: 5.5rem;
+  border: 1px white solid;
+  color: white;
+  font-size: 0.65rem;
+  text-align: center;
+}
+.myClass{
+  padding: 1rem;
+  width: 30rem;
+  max-width: 95%;
+  align-items: center;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: black;
+}
